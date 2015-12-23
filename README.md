@@ -36,6 +36,6 @@ The imagedataset folder is the image dataset we create.
 The extractalg folder is our algorithm to extract parameters from high resolution reference image and low resolution target image.
 The trainandtest folder is the training and testing algorithm. The training set is described by trainingset.txt
 
-# Run extract parameter algorithm
+# Run parameter extraction algorithm
 Run the imgassess.m code to get the parameter.
 
